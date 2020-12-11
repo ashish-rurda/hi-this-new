@@ -1,9 +1,30 @@
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.
+Please use below content for website.
 
+
+Resolving merge conflicts in Git
+Contents
+
+    1 Two ways git merge/git pull can fail
+        1.1 Git can fail to start the merge
+        1.2 Git can fail during the merge
+    2 Common questions for when git fails during the merge
+        2.1 How do I know which files have conflicts in them?
+        2.2 How do I find conflicts within the file itself?
+        2.3 How do I resolve a merge conflict in a file?
+        2.4 What do I do after I've resolved conflicts in all affected files?
+    3 Tools to help you resolve both types of merge conflicts
+        3.1 General tools
+            3.1.1 git diff
+            3.1.2 git status
+        3.2 Tools specifically for when git refuses to start merge
+            3.2.1 git stash
+            3.2.2 git checkout
+            3.2.3 git reset --mixed
+        3.3 Tools specifically for when git conflicts arise during a merge
+            3.3.1 git reset
+    4 Scenarios
+        4.1 Git refuses to start a merge/pull
+        4.2 Git is unable to resolve a merge/pull
+    5 A GitHub test repository to experiment with conflicts
+
+ 
